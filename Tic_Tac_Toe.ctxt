@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tic_Tac_Toe()
+comment1.params=
+comment1.target=int\ CheckWin()
+comment2.params=x
+comment2.target=int\ HumanMove(char)
+comment3.params=x
+comment3.target=int\ ComputerMove(char)
+comment4.params=
+comment4.target=void\ print()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

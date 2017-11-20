@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Jumble_Solver_3()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Jumble_Solver\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=2

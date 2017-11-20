@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Java_Mysterious_Classes_Revealed()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Math_Class\r\n
+comment1.params=y
+comment1.target=void\ main(double)
+comment1.text=\r\n\ A\ method\ to\ Demistify\ the\ secrets\ of\ The\ Java\ Math\ Class\r\n\ \r\n\ @author\ Arnab\ MondaL\r\n\ @version\ 12/11/2012\r\n
+numComments=2
